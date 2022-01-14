@@ -7,5 +7,6 @@ Basic Projects
 - Hello World in Scala
 - Scala Keywords
 - Scala Identifiers
+- Data Types in Scala
 - 
 - calculator
