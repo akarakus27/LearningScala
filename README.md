@@ -9,4 +9,4 @@ Basic Projects
 - Scala Identifiers
 - Data Types in Scala
 - Data Types in Scala
-- calculator
+- Calculator
